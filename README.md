@@ -7,4 +7,4 @@ document search using haystack
 ## step 3. pip install farm-haystack[faiss]
 
 
-[![Watch the video](Currency.png)](https://youtu.be/tYqGyag4mT8)
+[![Watch the video](Currency.png)](https://youtu.be/6uxoLFNVF_k)
